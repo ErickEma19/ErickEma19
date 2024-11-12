@@ -1,16 +1,16 @@
 ## Hi there 👋
-Meu nome Erick
-<!--Seja bem vindo
-**ErickEma19/ErickEma19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Estamos estudando e motivados aos desafios que virão.
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome Erick
+
+estudar é o lema
+
+email: erickemanuel@prof.educacao.sp.gov.br
+
+Iremos compartilhar nossos projetos
+![image](https://github.com/user-attachments/assets/a79f70c9-7867-4cad-9302-440e5bb35e36)
+
+
+Erick Emanuel
+
+
+
